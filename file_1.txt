@@ -1,1 +1,3 @@
 ini adalah file_1.txt
+
+Menambah baris baru pada file_1.txt
