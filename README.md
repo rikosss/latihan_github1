@@ -1,2 +1,2 @@
 # latihan_github1
-Latihan pembuatan Pemrogramman Web 2021
+Latihan pembuatan Web 2021
